@@ -1,5 +1,6 @@
 package lovebubbar_linkedList;
 //a program to detect a loop, remove a loop and find the start point of loop
+//i love millie
 import java.util.HashSet;
 
 public class detect_a_loop {
